@@ -1,5 +1,6 @@
 html{
 	text-align: center;
+  font-family: 'Montserrat Alternates', sans-serif;
   }
 
 h1, h2, h3{
@@ -8,6 +9,7 @@ h1, h2, h3{
   }
 h1{
 	font-size: 40px;
+  font-family: 'Playfair Display', serif;
   }
 h2{
 	background-color: #A52A2A;
