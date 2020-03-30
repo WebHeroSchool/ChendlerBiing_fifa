@@ -1,0 +1,35 @@
+html{
+	text-align: center;
+  }
+
+h1, h2, h3{
+	font-family: Marker Felt, fantasy;
+	color: #FFA07A;
+  }
+h1{
+	font-size: 40px;
+  }
+h2{
+	background-color: #A52A2A;
+  }
+.main__header{
+  border-bottom: dotted #A52A2A;
+}
+
+.situatuins{
+  max-width: 300px;
+}
+
+.situations__block{
+  display: inline-block;
+  width: 24%;
+  text-align: left;
+}
+
+.main__footer{
+  background-color: #F5F6CE;
+}
+.text__link_bold{
+  font-weight: bold;
+  color: black;
+}
